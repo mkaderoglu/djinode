@@ -1,0 +1,6 @@
+[submodule "lib/dji"]
+	path = lib/dji
+	url = https://github.com/dji-sdk/Onboard-SDK.git
+[submodule "lib/io"]
+	path = lib/io
+	url = https://github.com/socketio/socket.io-client-cpp.git
